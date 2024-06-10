@@ -5,9 +5,87 @@
     "height": 0.2,
     "width": 12
   },
+  "arrival_time_10": {
+    "container": "formNewTrain",
+    "row": 2,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_11": {
+    "container": "formNewTrain",
+    "row": 2.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_12": {
+    "container": "formNewTrain",
+    "row": 2.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_13": {
+    "container": "formNewTrain",
+    "row": 2.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_14": {
+    "container": "formNewTrain",
+    "row": 2.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_15": {
+    "container": "formNewTrain",
+    "row": 3,
+    "height": 0.2,
+    "width": 12
+  },
   "arrival_time_2": {
     "container": "formNewTrain",
     "row": 0.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_3": {
+    "container": "formNewTrain",
+    "row": 0.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_4": {
+    "container": "formNewTrain",
+    "row": 0.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_5": {
+    "container": "formNewTrain",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_6": {
+    "container": "formNewTrain",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_7": {
+    "container": "formNewTrain",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_8": {
+    "container": "formNewTrain",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "arrival_time_9": {
+    "container": "formNewTrain",
+    "row": 1.8,
     "height": 0.2,
     "width": 12
   },
@@ -20,7 +98,7 @@
   },
   "formNewTrain": {
     "col": 8,
-    "height": 0.2,
+    "height": 8,
     "width": 4
   },
   "formTitle1": {
