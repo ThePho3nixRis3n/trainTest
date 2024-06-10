@@ -1,0 +1,37 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "2e2fd05c-275d-11ef-997b-a7173fab8794",
+  "appTemplate": {
+    "pageCodeFolders": {
+      "object": {
+        "masterSched": {
+          "array": []
+        },
+        "formNewTrain": {
+          "array": []
+        },
+        "arrival_time_1": {
+          "array": []
+        },
+        "train_line": {
+          "array": []
+        },
+        "arrival_time_2": {
+          "array": []
+        },
+        "trainSched": {
+          "array": []
+        },
+        "buttonNewTrain": {
+          "array": []
+        },
+        "addTrain": {
+          "array": []
+        }
+      }
+    },
+    "version": "3.61.0",
+    "experimentalDataTabEnabled": true
+  }
+}
